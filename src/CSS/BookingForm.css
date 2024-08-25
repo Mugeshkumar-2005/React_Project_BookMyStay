@@ -1,0 +1,11 @@
+/* src/components/BookingForm.css */
+.booking-form {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 20px;
+  }
+  
+  .booking-form input, .booking-form button {
+    margin-top: 10px;
+  }
+  

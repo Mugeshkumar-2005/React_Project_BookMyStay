@@ -1,0 +1,6 @@
+/* src/CSS/HotelMap.css */
+.map-container {
+  width: 100%;
+  height: 400px; /* Adjust as needed */
+  position: relative; /* Ensure the map container is positioned properly */
+}
